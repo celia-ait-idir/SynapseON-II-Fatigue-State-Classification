@@ -1,4 +1,7 @@
 ## This project is my solution to the first task of the SynapseON II Datathon, organized by the IEEE Student Branch of the Higher Polytechnic School (ENP Algiers).
+<p align="center">
+  <img src="image.png" alt="Diagram" width="500"/>
+</p>
 
 # 💤 Fatigue State Classifier
 
